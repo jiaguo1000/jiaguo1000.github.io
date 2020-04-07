@@ -1,0 +1,22 @@
+---
+title: "Publications"
+output: 
+  html_document
+---
+
+<link rel="stylesheet" href="academicons.css"/>
+<link rel="stylesheet" href="styles.css" type="text/css"/>
+
+***
+
+<p>
+
+* Schiff, C. S., Zur, K. B., Biggs, L. M., __Guo, J.__, & Pitman, M. J. (2019). Pediatricians’ proficiency in the care of the dysphonic child. The Laryngoscope, 129(8), 1756-1762.
+
+* Galfalvy, H., __Guo, J.__, Keilp, J., Stanley, B., Oquendo, M., & Mann, J. J. (2018). F111. Multiple Pathways to Suicidal Behavior: Genetic and Neurocognitive Differences Between Suicide Attempters With High and Low Aggression-Impulsivity and Non-Attempters. Biological Psychiatry, 83(9), S280-S281.
+
+</p>
+
+
+
+

@@ -1,0 +1,23 @@
+name: "Jia Guo website"
+output_dir: "."
+navbar:
+  title: "Home"
+  left: 
+    - text: "Publications"
+      href: "publications.html"
+    - text: "About"
+      href: "about.html"
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<jg3780@cumc.columbia.edu>
+    - icon: ai-google-scholar ai-lg
+      href: https://scholar.google.com/citations?user=aCh-UBUAAAAJ&hl=en
+    - icon: fa-github fa-lg
+      href: http://github.com/jiaguo1000
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/jiaguo1000
+output:
+  html_document:
+    theme: journal
+    css: styles.css
+    lib_dir: site_libs
