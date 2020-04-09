@@ -1,0 +1,73 @@
+---
+title: "About"
+output: 
+  html_document
+---
+
+<link rel="stylesheet" href="academicons.css"/>
+<link rel="stylesheet" href="styles.css" type="text/css"/>
+<link rel="stylesheet" href="timeline.css"/ type='text/css'>
+
+***
+
+<!-- The Timeline -->
+
+<ul class="timeline">
+
+<!-- Item 1 -->
+<li>
+<div class="direction-l">
+<div class="flag-wrapper">
+<span class="flag">Columbia University</span>
+<span class="time-wrapper"><span class="time">September 2018 - present</span></span>
+</div>
+<img src="images/columbia.png" style="width:14%">
+
+<div class="desc">Currently I'm pursuing a Ph.D. in Biostatistics. Advised by [Dr. Shuang Wang](http://www.columbia.edu/~sw2206/), my research focused on applications of deep learning for electronic health record (EHR) data analysis.</div>
+</div>
+</li>
+
+<!-- Item 2 -->
+<li>
+<div class="direction-r">
+<div class="flag-wrapper">
+<span class="flag">MediaMath</span>
+<span class="time-wrapper"><span class="time">Summer 2018</span></span>
+</div>
+<img src="images/mediamath.png" style="width:16%">
+
+<div class="desc">I previously worked as an Engineer Intern developing machine learning projects at [MediaMath](http://www.mediamath.com).</div>
+</div>
+</li>
+
+<!-- Item 3 -->
+<li>
+<div class="direction-l">
+<div class="flag-wrapper">
+<span class="flag">Columbia University</span>
+<span class="time-wrapper"><span class="time">2016 - 2018</span></span>
+</div>
+<img src="images/columbia.png" style="width:14%">
+
+<div class="desc">I received a M.S. in Biostatistics with a concentration on Statitical Genetics at Columbia University.</div>
+</div>
+</li>
+
+<!-- Item 4 -->
+<li>
+<div class="direction-r">
+<div class="flag-wrapper">
+<span class="flag">Sun Yat-sen University</span>
+<span class="time-wrapper"><span class="time">2012 - 2016</span></span>
+</div>
+<img src="images/SYSU.png" style="width:14%">
+
+<div class="desc">I completed my B.S. in Mathematics at Sun Yat-sen University, Guangzhou, China.</div>
+</div>
+</li>
+
+</ul>
+
+
+
+
