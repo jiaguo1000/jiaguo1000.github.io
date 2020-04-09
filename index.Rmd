@@ -31,7 +31,7 @@ output:
 <p>
 Jia Guo, M.S.  
 Ph.D. candidate  
-Department of Biostatistics  
+[Department of Biostatistics](http://www.mailman.columbia.edu/academics/departments/biostatistics)  
 [Columbia University Mailman School of Public Health](http://www.mailman.columbia.edu)  
 722 West 168th Street, New York, NY 10032  
 jg3780@cumc.columbia.edu
