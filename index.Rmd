@@ -18,7 +18,7 @@ output:
 <p align="left"> </p>
 
 
-<p align="left">I'm a second-year Ph.D. student in Biostatistics at Columbia University Mailman School of Public Health.</p>
+<p align="left">I'm a second-year Ph.D. student in Biostatistics at Columbia University Mailman School of Public Health. My research focused on deep learning, natural language processing (NLP), electronic health record (EHR) data, and statistical genetics. [More about me.](about.html)</p>
 
 
 <!--
