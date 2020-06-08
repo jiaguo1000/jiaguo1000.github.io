@@ -1,7 +1,9 @@
 ---
 title: "About Me"
 output: 
-  html_document
+  html_document:
+    includes:
+       in_header: analytics_head.html
 ---
 
 <link rel="stylesheet" href="academicons.css"/>
