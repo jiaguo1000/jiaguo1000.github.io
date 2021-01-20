@@ -13,7 +13,7 @@ output:
 
 <p>
 
-<!-- * Wang, Y., Perera, F., __Guo, J.__, Wheelock, K., Durham, T., Ross, Z., Ananth, C. V., Baccarelli, A., Wang, S., & Herbstman, J. (in press). A methodological pipeline to generate an epigenetic marker of prenatal exposure to air pollution indicators. _Epigenetics_. -->
+* Wang, Y., Perera, F., __Guo, J.__, Wheelock, K., Durham, T., Ross, Z., Ananth, C. V., Baccarelli, A., Wang, S., & Herbstman, J. (2021). A methodological pipeline to generate an epigenetic marker of prenatal exposure to air pollution indicators. _Epigenetics_.
 
 * Schiff, C. S., Zur, K. B., Biggs, L. M., __Guo, J.__, & Pitman, M. J. (2019). Pediatricians’ proficiency in the care of the dysphonic child. _The Laryngoscope, 129_(8), 1756-1762.
 
