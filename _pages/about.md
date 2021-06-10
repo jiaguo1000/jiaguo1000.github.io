@@ -7,6 +7,15 @@ author_profile: true
 
 ***
 
+* <img src="/assets/images/JPMorgan.png" style="width:14%">
+<br />
+June 2021 - present
+<br />
+I currently work as a Quantitative Analytics Summer Associate at [JPMorgan Chase & Co.](https://www.jpmorganchase.com).
+<br />
+<br />
+
+
 * <img src="/assets/images/Roche.png" style="width:20%">
 <br />
 January 2021 - present
