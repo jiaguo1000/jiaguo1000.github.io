@@ -11,7 +11,7 @@ author_profile: true
 
 2. Wang, Y., Perera, F., __Guo, J.__, Riley, K. W., Durham, T., Ross, Z., Ananth, C. V., Baccarelli, A. A., Wang, S., & Herbstman, J. B. (2021). [A methodological pipeline to generate an epigenetic marker of prenatal exposure to air pollution indicators](https://www.tandfonline.com/doi/full/10.1080/15592294.2021.1872926). _Epigenetics_, 1-9.
 
-3. Cowell, W., Tang, D., Yu, J., __Guo, J.__, Wang, S., Baccarelli, A. A., Perera, F., & Herbstman, J. B. (2021). [Telomere dynamics across the early life course: findings from a longitudinal study in children](https://www.sciencedirect.com/science/article/pii/S030645302100144X). _Psychoneuroendocrinology_, 105270.
+3. Cowell, W., Tang, D., Yu, J., __Guo, J.__, Wang, S., Baccarelli, A. A., Perera, F., & Herbstman, J. B. (2021). [Telomere dynamics across the early life course: findings from a longitudinal study in children](https://www.sciencedirect.com/science/article/pii/S030645302100144X). _Psychoneuroendocrinology, 129_, 105270.
 
 4. Schiff, C. S., Zur, K. B., Biggs, L. M., __Guo, J.__, & Pitman, M. J. (2019). [Pediatricians’ proficiency in the care of the dysphonic child](https://onlinelibrary.wiley.com/doi/full/10.1002/lary.27577). _The Laryngoscope, 129_(8), 1756-1762.
 
