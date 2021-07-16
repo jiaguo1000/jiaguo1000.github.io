@@ -128,6 +128,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:jg3780@columbia.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
@@ -149,6 +152,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jiaguo1000/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      # url: "https://scholar.google.com/citations?user=aCh-UBUAAAAJ&hl=en"
 
 
 # Reading Files
