@@ -7,20 +7,20 @@ author_profile: true
 
 ***
 
-* <img src="/assets/images/JPMorgan.png" style="width:14%">
-<br />
-June 2021 - present
-<br />
-I currently work as a Quantitative Analytics Summer Associate at [JPMorgan Chase & Co.](https://www.jpmorganchase.com).
-<br />
-<br />
-
-
 * <img src="/assets/images/Roche.png" style="width:20%">
 <br />
 January 2021 - present
 <br />
-I currently work as a Data Scientist Intern at [Roche](https://www.roche.com).
+I currently work as a Data Scientist Intern at [Roche pRED](https://www.roche.com/research_and_development/who_we_are_how_we_work/our_structure/pred.htm).
+<br />
+<br />
+
+
+* <img src="/assets/images/JPMorgan.png" style="width:14%">
+<br />
+Summer 2021
+<br />
+I worked as a Quantitative Analytics Summer Associate at [JPMorgan Chase & Co.](https://www.jpmorganchase.com).
 <br />
 <br />
 
