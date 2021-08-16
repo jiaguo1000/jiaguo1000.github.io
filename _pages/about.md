@@ -1,13 +1,14 @@
 ---
-layout: archive
+layout: single
 permalink: /about/
 title: "About Me"
 author_profile: true
+classes: wide
 ---
 
 ***
 
-* <img src="/assets/images/Roche.png" style="width:20%">
+* <img src="/assets/images/Roche.png" style="width:14%">
 <br />
 January 2021 - present
 <br />
@@ -16,7 +17,7 @@ I currently work as a Data Scientist Intern at [Roche pRED](https://www.roche.co
 <br />
 
 
-* <img src="/assets/images/JPMorgan.png" style="width:14%">
+* <img src="/assets/images/JPMorgan.png" style="width:10%">
 <br />
 Summer 2021
 <br />
@@ -25,7 +26,7 @@ I worked as a Quantitative Analytics Summer Associate at [JPMorgan Chase & Co.](
 <br />
 
 
-* <img src="/assets/images/columbia.png" style="width:18%">
+* <img src="/assets/images/columbia.png" style="width:13%">
 <br />
 September 2018 - present
 <br />
@@ -34,7 +35,7 @@ I'm pursuing a Ph.D. in Biostatistics at Columbia University, advised by [Dr. Sh
 <br />
 
 
-* <img src="/assets/images/mediamath.png" style="width:20%">
+* <img src="/assets/images/mediamath.png" style="width:14%">
 <br />
 Summer 2018
 <br />
@@ -43,7 +44,7 @@ I previously worked as an Engineer Intern developing machine learning projects a
 <br />
 
 
-* <img src="/assets/images/columbia.png" style="width:18%">
+* <img src="/assets/images/columbia.png" style="width:13%">
 <br />
 2016 - 2018
 <br />
@@ -52,7 +53,7 @@ I received a M.S. in Biostatistics with a concentration on Statitical Genetics a
 <br />
 
 
-* <img src="/assets/images/SYSU.png" style="width:17%">
+* <img src="/assets/images/SYSU.png" style="width:12%">
 <br />
 2012 - 2016
 <br />
