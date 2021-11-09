@@ -10,9 +10,9 @@ classes: wide
 
 * <img src="/assets/images/Roche.png" style="width:14%">
 <br />
-January 2021 - present
+January 2021 - December 2021
 <br />
-I currently work as a Data Scientist Intern at [Roche pRED](https://www.roche.com/research_and_development/who_we_are_how_we_work/our_structure/pred.htm).
+I worked as a Data Scientist Intern at [Roche pRED](https://www.roche.com/research_and_development/who_we_are_how_we_work/our_structure/pred.htm).
 <br />
 <br />
 
@@ -39,7 +39,7 @@ I'm pursuing a Ph.D. in Biostatistics at Columbia University, advised by [Dr. Sh
 <br />
 Summer 2018
 <br />
-I previously worked as an Engineer Intern developing machine learning projects at [MediaMath](https://www.mediamath.com).
+I previously worked as a Machine Learning Engineer Intern at [MediaMath](https://www.mediamath.com).
 <br />
 <br />
 
