@@ -12,7 +12,7 @@ classes: wide
 <br />
 January 2021 - December 2021
 <br />
-I worked as a Data Scientist Intern at [Roche pRED](https://www.roche.com/research_and_development/who_we_are_how_we_work/our_structure/pred.htm).
+I worked as a Data Scientist Intern at [Roche pRED](https://www.roche.com/research_and_development/who_we_are_how_we_work/our_structure/pred.htm), performing statistical analysis and building Deep Learning models on genomic data.
 <br />
 <br />
 
@@ -21,7 +21,7 @@ I worked as a Data Scientist Intern at [Roche pRED](https://www.roche.com/resear
 <br />
 Summer 2021
 <br />
-I worked as a Quantitative Analytics Summer Associate at [JPMorgan Chase & Co.](https://www.jpmorganchase.com).
+I worked as a Quantitative Analytics Summer Associate at [JPMorgan Chase & Co.](https://www.jpmorganchase.com), conducting research in Deep Learning models using loan-level mortgage data.
 <br />
 <br />
 
@@ -30,7 +30,7 @@ I worked as a Quantitative Analytics Summer Associate at [JPMorgan Chase & Co.](
 <br />
 September 2018 - present
 <br />
-I'm pursuing a Ph.D. in Biostatistics at Columbia University, advised by [Dr. Shuang Wang](http://www.columbia.edu/~sw2206/). My research focused on applications of Deep Learning for electronic health record (EHR) data analysis.
+I'm pursuing a Ph.D. in Biostatistics at Columbia University, advised by [Dr. Shuang Wang](http://www.columbia.edu/~sw2206/). My research focused on applications of Deep Learning models for electronic health record (EHR) data analysis.
 <br />
 <br />
 
@@ -39,7 +39,7 @@ I'm pursuing a Ph.D. in Biostatistics at Columbia University, advised by [Dr. Sh
 <br />
 Summer 2018
 <br />
-I previously worked as a Machine Learning Engineer Intern at [MediaMath](https://www.mediamath.com).
+I previously worked as a Machine Learning Engineer Intern at [MediaMath](https://www.mediamath.com), building machine learning based bid-filters to identify and filter out low quality bid opportunities.
 <br />
 <br />
 
