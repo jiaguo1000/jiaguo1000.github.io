@@ -8,6 +8,10 @@ classes: wide
 
 ***
 
+* __Guo, J.__, Lin, W. H. W., Zucker, J. E., Nandakumar, R., Uhlemann, A. C., Wang, S., & Shivakoti, R. (2022). [Inflammation and mortality in COVID-19 hospitalized patients with and without type 2 diabetes](https://doi.org/10.1210/clinem/dgac003). _The Journal of Clinical Endocrinology & Metabolism_.
+
+* Durham, T., __Guo, J.__, Cowell, W., Riley, K. W., Wang, S., Tang, D., Perera, F., & Herbstman, J. B. (2022). [Prenatal PM2.5 exposure in relation to maternal and newborn telomere length at delivery](https://www.mdpi.com/1433090). _Toxics, 10_(1), 13.
+
 * __Guo, J.__, Yuan, C., Shang, N., Zheng, T., Bello, N. A., Kiryluk, K., Weng, C., & Wang, S. (2021). [Similarity-based health risk prediction using domain fusion and electronic health records data](https://www.sciencedirect.com/science/article/pii/S153204642100040X). _Journal of biomedical informatics, 116_, 103711.
 
 * Yin, H.\*, __Guo, J.__\*, Xin, Q., Zheng, S., Xue, X., Li, E., Liu, T., Yan, N., Keilp, J., & Mann, J. J. (2021). [Influence of the GABA receptor subunit gene polymorphism and childhood sexual abuse on processing speed in major depression and suicide attempt](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.712231/full). _Frontiers in psychiatry_, 1747. (* indicates equal contributions)
