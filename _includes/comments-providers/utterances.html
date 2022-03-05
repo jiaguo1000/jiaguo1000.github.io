@@ -12,6 +12,10 @@
     script.setAttribute('src', 'https://utteranc.es/client.js');
     script.setAttribute('repo', '{{ site.repository }}');
     script.setAttribute('issue-term', '{{ site.comments.utterances.issue_term | default: "pathname" }}');
+<<<<<<< HEAD
+=======
+    {% if site.comments.utterances.label %}script.setAttribute('label', '{{ site.comments.utterances.label }}');{% endif %}
+>>>>>>> 2632ff650a6efb0d856a37d675be5f1b63692181
     script.setAttribute('theme', '{{ site.comments.utterances.theme | default: "github-light" }}');
     script.setAttribute('crossorigin', 'anonymous');
 
