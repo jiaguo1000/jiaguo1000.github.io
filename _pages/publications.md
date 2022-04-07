@@ -8,6 +8,8 @@ classes: wide
 
 ***
 
+* __Guo, J.__, Riley, K. W., Durham, T., Margolis A. E., Wang, S., Perera, F., & Herbstman, J. B. (2022). [Association studies of environmental exposures, DNA methylation and children’s cognitive, behavioral, and mental health problems](https://www.frontiersin.org/articles/10.3389/fgene.2022.871820/full). _Frontiers in genetics_, 703.
+
 * __Guo, J.__, Lin, W. H. W., Zucker, J. E., Nandakumar, R., Uhlemann, A. C., Wang, S., & Shivakoti, R. (2022). [Inflammation and mortality in COVID-19 hospitalized patients with and without type 2 diabetes](https://doi.org/10.1210/clinem/dgac003). _The Journal of Clinical Endocrinology & Metabolism_.
 
 * Durham, T., __Guo, J.__, Cowell, W., Riley, K. W., Wang, S., Tang, D., Perera, F., & Herbstman, J. B. (2022). [Prenatal PM2.5 exposure in relation to maternal and newborn telomere length at delivery](https://www.mdpi.com/1433090). _Toxics, 10_(1), 13.
