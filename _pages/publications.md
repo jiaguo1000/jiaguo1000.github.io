@@ -8,11 +8,15 @@ classes: wide
 
 ***
 
+### 2022
+
 * __Guo, J.__, Riley, K. W., Durham, T., Margolis A. E., Wang, S., Perera, F., & Herbstman, J. B. (2022). [Association studies of environmental exposures, DNA methylation and children’s cognitive, behavioral, and mental health problems](https://www.frontiersin.org/articles/10.3389/fgene.2022.871820/full). _Frontiers in genetics_, 703.
 
 * __Guo, J.__, Lin, W. H. W., Zucker, J. E., Nandakumar, R., Uhlemann, A. C., Wang, S., & Shivakoti, R. (2022). [Inflammation and mortality in COVID-19 hospitalized patients with and without type 2 diabetes](https://doi.org/10.1210/clinem/dgac003). _The Journal of Clinical Endocrinology & Metabolism_.
 
 * Durham, T., __Guo, J.__, Cowell, W., Riley, K. W., Wang, S., Tang, D., Perera, F., & Herbstman, J. B. (2022). [Prenatal PM2.5 exposure in relation to maternal and newborn telomere length at delivery](https://www.mdpi.com/1433090). _Toxics, 10_(1), 13.
+
+### 2021
 
 * __Guo, J.__, Yuan, C., Shang, N., Zheng, T., Bello, N. A., Kiryluk, K., Weng, C., & Wang, S. (2021). [Similarity-based health risk prediction using domain fusion and electronic health records data](https://www.sciencedirect.com/science/article/pii/S153204642100040X). _Journal of biomedical informatics, 116_, 103711.
 
@@ -23,6 +27,8 @@ classes: wide
 * Wang, Y., Perera, F., __Guo, J.__, Riley, K. W., Durham, T., Ross, Z., Ananth, C. V., Baccarelli, A. A., Wang, S., & Herbstman, J. B. (2021). [A methodological pipeline to generate an epigenetic marker of prenatal exposure to air pollution indicators](https://www.tandfonline.com/doi/full/10.1080/15592294.2021.1872926). _Epigenetics_, 1-9.
 
 * Cowell, W., Tang, D., Yu, J., __Guo, J.__, Wang, S., Baccarelli, A. A., Perera, F., & Herbstman, J. B. (2021). [Telomere dynamics across the early life course: findings from a longitudinal study in children](https://www.sciencedirect.com/science/article/pii/S030645302100144X). _Psychoneuroendocrinology, 129_, 105270.
+
+### 2020 and before
 
 * Schiff, C. S., Zur, K. B., Biggs, L. M., __Guo, J.__, & Pitman, M. J. (2019). [Pediatricians’ proficiency in the care of the dysphonic child](https://onlinelibrary.wiley.com/doi/full/10.1002/lary.27577). _The Laryngoscope, 129_(8), 1756-1762.
 
