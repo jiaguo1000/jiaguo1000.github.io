@@ -8,6 +8,15 @@ classes: wide
 
 ***
 
+* <img src="/assets/images/Meta.png" style="width:13%">
+<br />
+Summer 2022
+<br />
+I worked as a Data Scientist Intern at [Meta Platforms](https://about.facebook.com).
+<br />
+<br />
+
+
 * <img src="/assets/images/Roche.png" style="width:14%">
 <br />
 January 2021 - December 2021
