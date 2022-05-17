@@ -10,11 +10,13 @@ classes: wide
 
 ### 2022
 
-* __Guo, J.__, Riley, K. W., Durham, T., Margolis A. E., Wang, S., Perera, F., & Herbstman, J. B. (2022). [Association studies of environmental exposures, DNA methylation and children’s cognitive, behavioral, and mental health problems](https://www.frontiersin.org/articles/10.3389/fgene.2022.871820/full). _Frontiers in genetics_, 703.
-
 * __Guo, J.__, Lin, W. H. W., Zucker, J. E., Nandakumar, R., Uhlemann, A. C., Wang, S., & Shivakoti, R. (2022). [Inflammation and mortality in COVID-19 hospitalized patients with and without type 2 diabetes](https://doi.org/10.1210/clinem/dgac003). _The Journal of Clinical Endocrinology & Metabolism_.
 
+* __Guo, J.__, Riley, K. W., Durham, T., Margolis A. E., Wang, S., Perera, F., & Herbstman, J. B. (2022). [Association studies of environmental exposures, DNA methylation and children’s cognitive, behavioral, and mental health problems](https://www.frontiersin.org/articles/10.3389/fgene.2022.871820/full). _Frontiers in genetics, 13_, 871820.
+
 * Durham, T., __Guo, J.__, Cowell, W., Riley, K. W., Wang, S., Tang, D., Perera, F., & Herbstman, J. B. (2022). [Prenatal PM2.5 exposure in relation to maternal and newborn telomere length at delivery](https://www.mdpi.com/1433090). _Toxics, 10_(1), 13.
+
+* Wang, Y., Perera, F., __Guo, J.__, Riley, K. W., Durham, T., Ross, Z., Ananth, C. V., Baccarelli, A. A., Wang, S., & Herbstman, J. B. (2022). [A methodological pipeline to generate an epigenetic marker of prenatal exposure to air pollution indicators](https://www.tandfonline.com/doi/full/10.1080/15592294.2021.1872926). _Epigenetics, 17_(1), 32-40.
 
 ### 2021
 
@@ -23,8 +25,6 @@ classes: wide
 * Yin, H.\*, __Guo, J.__\*, Xin, Q., Zheng, S., Xue, X., Li, E., Liu, T., Yan, N., Keilp, J., & Mann, J. J. (2021). [Influence of the GABA receptor subunit gene polymorphism and childhood sexual abuse on processing speed in major depression and suicide attempt](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.712231/full). _Frontiers in psychiatry_, 1747. (* indicates equal contributions)
 
 * Otsuka, I., Galfalvy, H., __Guo, J.__, Akiyama, M., Rujescu, D., Turecki, G., Hishimoto, A., & Mann, J. J. (2021). [Mapping the genetic architecture of suicide attempt and suicide death using polygenic risk scores for clinically-related psychiatric disorders and traits](https://doi.org/10.1017/S0033291721004700). _Psychological Medicine_, 1-9.
-
-* Wang, Y., Perera, F., __Guo, J.__, Riley, K. W., Durham, T., Ross, Z., Ananth, C. V., Baccarelli, A. A., Wang, S., & Herbstman, J. B. (2021). [A methodological pipeline to generate an epigenetic marker of prenatal exposure to air pollution indicators](https://www.tandfonline.com/doi/full/10.1080/15592294.2021.1872926). _Epigenetics_, 1-9.
 
 * Cowell, W., Tang, D., Yu, J., __Guo, J.__, Wang, S., Baccarelli, A. A., Perera, F., & Herbstman, J. B. (2021). [Telomere dynamics across the early life course: findings from a longitudinal study in children](https://www.sciencedirect.com/science/article/pii/S030645302100144X). _Psychoneuroendocrinology, 129_, 105270.
 
