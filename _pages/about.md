@@ -12,7 +12,7 @@ classes: wide
 <br />
 Summer 2022
 <br />
-I worked as a Data Scientist Intern at [Meta Platforms](https://about.facebook.com).
+I worked as a Data Scientist Intern at [Meta Platforms](https://about.facebook.com), conducting analysis on personalized recommendation systems for Instagram shopping.
 <br />
 <br />
 
