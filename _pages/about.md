@@ -26,7 +26,7 @@ I worked as a Data Scientist Intern at [Roche pRED](https://www.roche.com/resear
 <br />
 
 
-* <img src="/assets/images/JPMorgan.png" style="width:10%">
+* <img src="/assets/images/JPMorgan.png" style="width:12%">
 <br />
 Summer 2021
 <br />
