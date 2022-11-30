@@ -14,6 +14,8 @@ classes: wide
 
 * __Guo, J.__, Riley, K. W., Durham, T., Margolis A. E., Wang, S., Perera, F., & Herbstman, J. B. (2022). [Association studies of environmental exposures, DNA methylation and children’s cognitive, behavioral, and mental health problems](https://www.frontiersin.org/articles/10.3389/fgene.2022.871820/full). _Frontiers in genetics, 13_, 871820.
 
+* Zheng, S.\*, __Guo, J.__\*, Xin, Q., Galfalvy, H., Ye, Y., Yan, N., Qian, R., Li, E., Xue, X., Mann, J. J., & Yin, H. (2022). [Association of adenosine triphosphate-related genes to major depression and suicidal behavior: cognition as a potential mediator](https://www.sciencedirect.com/science/article/pii/S0165032722013027). _Journal of Affective Disorders_. (* indicates equal contributions)
+
 * Durham, T., __Guo, J.__, Cowell, W., Riley, K. W., Wang, S., Tang, D., Perera, F., & Herbstman, J. B. (2022). [Prenatal PM2.5 exposure in relation to maternal and newborn telomere length at delivery](https://www.mdpi.com/1433090). _Toxics, 10_(1), 13.
 
 * Wang, Y., Perera, F., __Guo, J.__, Riley, K. W., Durham, T., Ross, Z., Ananth, C. V., Baccarelli, A. A., Wang, S., & Herbstman, J. B. (2022). [A methodological pipeline to generate an epigenetic marker of prenatal exposure to air pollution indicators](https://www.tandfonline.com/doi/full/10.1080/15592294.2021.1872926). _Epigenetics, 17_(1), 32-40.
