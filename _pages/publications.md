@@ -8,13 +8,17 @@ classes: wide
 
 ***
 
+### 2023
+
+* Zheng, S.\*, __Guo, J.__\*, Xin, Q., Galfalvy, H., Ye, Y., Yan, N., Qian, R., Li, E., Xue, X., Mann, J. J., & Yin, H. (2022). [Association of adenosine triphosphate-related genes to major depression and suicidal behavior: cognition as a potential mediator](https://www.sciencedirect.com/science/article/pii/S0165032722013027). _Journal of Affective Disorders, 323_, 131-139. (* indicates equal contributions)
+
+* Foo, J. C., Redler, S., Forstner, A. J., Basmanav, F. B., Pethukova, L., __Guo, J.__, Streit, F., Witt, S. H., ... & Frank, J. (2023). [Exploring the overlap between alopecia areata and major depressive disorder: epidemiological and genetic perspectives](https://onlinelibrary.wiley.com/doi/10.1111/jdv.18921). _Journal of the European Academy of Dermatology and Venereology_.
+
 ### 2022
 
 * __Guo, J.__, Lin, W. H. W., Zucker, J. E., Nandakumar, R., Uhlemann, A. C., Wang, S., & Shivakoti, R. (2022). [Inflammation and mortality in COVID-19 hospitalized patients with and without type 2 diabetes](https://doi.org/10.1210/clinem/dgac003). _The Journal of Clinical Endocrinology & Metabolism_.
 
 * __Guo, J.__, Riley, K. W., Durham, T., Margolis A. E., Wang, S., Perera, F., & Herbstman, J. B. (2022). [Association studies of environmental exposures, DNA methylation and children’s cognitive, behavioral, and mental health problems](https://www.frontiersin.org/articles/10.3389/fgene.2022.871820/full). _Frontiers in genetics, 13_, 871820.
-
-* Zheng, S.\*, __Guo, J.__\*, Xin, Q., Galfalvy, H., Ye, Y., Yan, N., Qian, R., Li, E., Xue, X., Mann, J. J., & Yin, H. (2022). [Association of adenosine triphosphate-related genes to major depression and suicidal behavior: cognition as a potential mediator](https://www.sciencedirect.com/science/article/pii/S0165032722013027). _Journal of Affective Disorders_. (* indicates equal contributions)
 
 * Durham, T., __Guo, J.__, Cowell, W., Riley, K. W., Wang, S., Tang, D., Perera, F., & Herbstman, J. B. (2022). [Prenatal PM2.5 exposure in relation to maternal and newborn telomere length at delivery](https://www.mdpi.com/1433090). _Toxics, 10_(1), 13.
 
