@@ -10,7 +10,7 @@ classes: wide
 
 ### 2023
 
-* Zheng, S.\*, __Guo, J.__\*, Xin, Q., Galfalvy, H., Ye, Y., Yan, N., Qian, R., Li, E., Xue, X., Mann, J. J., & Yin, H. (2022). [Association of adenosine triphosphate-related genes to major depression and suicidal behavior: cognition as a potential mediator](https://www.sciencedirect.com/science/article/pii/S0165032722013027). _Journal of Affective Disorders, 323_, 131-139. (* indicates equal contributions)
+* Zheng, S.\*, __Guo, J.__\*, Xin, Q., Galfalvy, H., Ye, Y., Yan, N., Qian, R., Li, E., Xue, X., Mann, J. J., & Yin, H. (2023). [Association of adenosine triphosphate-related genes to major depression and suicidal behavior: cognition as a potential mediator](https://www.sciencedirect.com/science/article/pii/S0165032722013027). _Journal of Affective Disorders, 323_, 131-139. (* indicates equal contributions)
 
 * Foo, J. C., Redler, S., Forstner, A. J., Basmanav, F. B., Pethukova, L., __Guo, J.__, Streit, F., Witt, S. H., ... & Frank, J. (2023). [Exploring the overlap between alopecia areata and major depressive disorder: epidemiological and genetic perspectives](https://onlinelibrary.wiley.com/doi/10.1111/jdv.18921). _Journal of the European Academy of Dermatology and Venereology_.
 
