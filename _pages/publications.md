@@ -12,6 +12,8 @@ classes: wide
 
 * Zheng, S.\*, __Guo, J.__\*, Xin, Q., Galfalvy, H., Ye, Y., Yan, N., Qian, R., Li, E., Xue, X., Mann, J. J., & Yin, H. (2023). [Association of adenosine triphosphate-related genes to major depression and suicidal behavior: cognition as a potential mediator](https://www.sciencedirect.com/science/article/pii/S0165032722013027). _Journal of Affective Disorders, 323_, 131-139. (* indicates equal contributions)
 
+* Otsuka, I., Galfalvy, H., __Guo, J.__, Akiyama, M., Rujescu, D., Turecki, G., Hishimoto, A., & Mann, J. J. (2023). [Mapping the genetic architecture of suicide attempt and suicide death using polygenic risk scores for clinically-related psychiatric disorders and traits](https://doi.org/10.1017/S0033291721004700). _Psychological Medicine, 53_(6), 2689-2697.
+
 * Foo, J. C., Redler, S., Forstner, A. J., Basmanav, F. B., Pethukova, L., __Guo, J.__, Streit, F., Witt, S. H., ... & Frank, J. (2023). [Exploring the overlap between alopecia areata and major depressive disorder: epidemiological and genetic perspectives](https://onlinelibrary.wiley.com/doi/10.1111/jdv.18921). _Journal of the European Academy of Dermatology and Venereology_.
 
 ### 2022
@@ -31,8 +33,6 @@ classes: wide
 * __Guo, J.__, Yuan, C., Shang, N., Zheng, T., Bello, N. A., Kiryluk, K., Weng, C., & Wang, S. (2021). [Similarity-based health risk prediction using domain fusion and electronic health records data](https://www.sciencedirect.com/science/article/pii/S153204642100040X). _Journal of biomedical informatics, 116_, 103711.
 
 * Yin, H.\*, __Guo, J.__\*, Xin, Q., Zheng, S., Xue, X., Li, E., Liu, T., Yan, N., Keilp, J., & Mann, J. J. (2021). [Influence of the GABA receptor subunit gene polymorphism and childhood sexual abuse on processing speed in major depression and suicide attempt](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.712231/full). _Frontiers in psychiatry_, 1747. (* indicates equal contributions)
-
-* Otsuka, I., Galfalvy, H., __Guo, J.__, Akiyama, M., Rujescu, D., Turecki, G., Hishimoto, A., & Mann, J. J. (2021). [Mapping the genetic architecture of suicide attempt and suicide death using polygenic risk scores for clinically-related psychiatric disorders and traits](https://doi.org/10.1017/S0033291721004700). _Psychological Medicine_, 1-9.
 
 * Cowell, W., Tang, D., Yu, J., __Guo, J.__, Wang, S., Baccarelli, A. A., Perera, F., & Herbstman, J. B. (2021). [Telomere dynamics across the early life course: findings from a longitudinal study in children](https://www.sciencedirect.com/science/article/pii/S030645302100144X). _Psychoneuroendocrinology, 129_, 105270.
 
