@@ -8,6 +8,24 @@ classes: wide
 
 ***
 
+* <img src="/assets/images/Trexquant.png" style="width:21%">
+<br />
+August 2023 - present
+<br />
+I work as an Alpha Researcher at [Trexquant](https://www.trexquant.com), developing quantitative models to discover Alpha signals and predict future stock returns.
+<br />
+<br />
+
+
+* <img src="/assets/images/columbia.png" style="width:13%">
+<br />
+September 2018 - June 2023
+<br />
+I finished my Ph.D. in Biostatistics at Columbia University, advised by [Dr. Shuang Wang](http://www.columbia.edu/~sw2206/). My research focused on computational algorithms for electronic health record (EHR) and multi-omics data.
+<br />
+<br />
+
+
 * <img src="/assets/images/Meta.png" style="width:13%">
 <br />
 Summer 2022
@@ -31,15 +49,6 @@ I worked as a Data Scientist Intern at [Roche pRED](https://www.roche.com/resear
 Summer 2021
 <br />
 I worked as a Quantitative Analytics Summer Associate at [JPMorgan Chase & Co.](https://www.jpmorganchase.com), conducting research in Deep Learning models using loan-level mortgage data.
-<br />
-<br />
-
-
-* <img src="/assets/images/columbia.png" style="width:13%">
-<br />
-September 2018 - present
-<br />
-I'm pursuing a Ph.D. in Biostatistics at Columbia University, advised by [Dr. Shuang Wang](http://www.columbia.edu/~sw2206/). My research focused on applications of Deep Learning models for electronic health record (EHR) data analysis.
 <br />
 <br />
 
