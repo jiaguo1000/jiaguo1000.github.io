@@ -8,6 +8,12 @@ classes: wide
 
 ***
 
+### 2024
+
+* Riley, K. W., __Guo, J.__, Wang, S., Factor-Litvak, P., Miller, R., Andrews, H., Hoepner, L. A., Margolis, A. E., Rauh, V., Rundle, A., Perera, F., & Herbstman, J. B. (2024). [Cohort Profile: The Mothers and Newborns (MN) Cohort of the Columbia Center for Children’s Environmental Health](https://academic.oup.com/ije/article-abstract/53/1/dyae011/7603276). _International Journal of Epidemiology, 53_(1), dyae011.
+
+* Otsuka, I., Galfalvy, H., __Guo, J.__, Akiyama, M., Okazaki, S., Terao, C., Rujescu, D., Turecki, G., Hishimoto, A., & Mann, J. J. (2024). [Relationship of major depressive disorder and schizophrenia polygenic risk scores to suicide: a comparison between European and Asian ancestry populations](https://www.tandfonline.com/doi/full/10.1080/13811118.2024.2332258). _Archives of Suicide Research_, 1-8.
+
 ### 2023
 
 * Zheng, S.\*, __Guo, J.__\*, Xin, Q., Galfalvy, H., Ye, Y., Yan, N., Qian, R., Li, E., Xue, X., Mann, J. J., & Yin, H. (2023). [Association of adenosine triphosphate-related genes to major depression and suicidal behavior: cognition as a potential mediator](https://www.sciencedirect.com/science/article/pii/S0165032722013027). _Journal of Affective Disorders, 323_, 131-139. (* indicates equal contributions)
