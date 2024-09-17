@@ -10,9 +10,13 @@ classes: wide
 
 ### 2024
 
+* __Guo, J.__, Kiryluk, K., & Wang, S. (2024). [PheW<sup>2</sup>P2V: a phenome-wide prediction framework with weighted patient representations using electronic health records](https://academic.oup.com/jamiaopen/article/7/3/ooae084/7758163). _JAMIA Open, 7_(3), ooae084.
+
 * Riley, K. W., __Guo, J.__, Wang, S., Factor-Litvak, P., Miller, R., Andrews, H., Hoepner, L. A., Margolis, A. E., Rauh, V., Rundle, A., Perera, F., & Herbstman, J. B. (2024). [Cohort Profile: The Mothers and Newborns (MN) Cohort of the Columbia Center for Children’s Environmental Health](https://academic.oup.com/ije/article-abstract/53/1/dyae011/7603276). _International Journal of Epidemiology, 53_(1), dyae011.
 
 * Otsuka, I., Galfalvy, H., __Guo, J.__, Akiyama, M., Okazaki, S., Terao, C., Rujescu, D., Turecki, G., Hishimoto, A., & Mann, J. J. (2024). [Relationship of major depressive disorder and schizophrenia polygenic risk scores to suicide: a comparison between European and Asian ancestry populations](https://www.tandfonline.com/doi/full/10.1080/13811118.2024.2332258). _Archives of Suicide Research_, 1-8.
+
+* Symeonides, C., Vacy, K., Thomson, S., Tanner, S., Chua, H. K., Dixit, S., Mansell, T., O'Hely, M., Novakovic, B., Herbstman, J. B., Wang, S., __Guo, J.__, Chia, J., ... & Boon, W. C. (2024). [Male autism spectrum disorder is linked to brain aromatase disruption by prenatal BPA in multimodal investigations and 10HDA ameliorates the related mouse phenotype](https://www.nature.com/articles/s41467-024-48897-8). _Nature Communications, 15_(1), 6367.
 
 ### 2023
 
@@ -24,7 +28,7 @@ classes: wide
 
 ### 2022
 
-* __Guo, J.__, Lin, W. H. W., Zucker, J. E., Nandakumar, R., Uhlemann, A. C., Wang, S., & Shivakoti, R. (2022). [Inflammation and mortality in COVID-19 hospitalized patients with and without type 2 diabetes](https://doi.org/10.1210/clinem/dgac003). _The Journal of Clinical Endocrinology & Metabolism_.
+* __Guo, J.__, Lin, W. H. W., Zucker, J. E., Nandakumar, R., Uhlemann, A. C., Wang, S., & Shivakoti, R. (2022). [Inflammation and mortality in COVID-19 hospitalized patients with and without type 2 diabetes](https://doi.org/10.1210/clinem/dgac003). _The Journal of Clinical Endocrinology & Metabolism, 107_(5), e1961-e1968.
 
 * __Guo, J.__, Riley, K. W., Durham, T., Margolis A. E., Wang, S., Perera, F., & Herbstman, J. B. (2022). [Association studies of environmental exposures, DNA methylation and children’s cognitive, behavioral, and mental health problems](https://www.frontiersin.org/articles/10.3389/fgene.2022.871820/full). _Frontiers in genetics, 13_, 871820.
 
