@@ -8,11 +8,20 @@ classes: wide
 
 ***
 
+* <img src="/assets/images/Nebula.png" style="width:43%">
+<br />
+February 2025 - present
+<br />
+I work as a Quantitative Researcher at [Nebula Research](https://www.nebularesearch.com).
+<br />
+<br />
+
+
 * <img src="/assets/images/Trexquant.png" style="width:21%">
 <br />
-August 2023 - present
+August 2023 - February 2025
 <br />
-I work as an Alpha Researcher at [Trexquant](https://www.trexquant.com), developing quantitative models to discover Alpha signals and predict future stock returns.
+I worked as an Alpha Researcher at [Trexquant](https://www.trexquant.com), developing machine learning models to discover Alpha signals and predict future stock returns.
 <br />
 <br />
 
@@ -39,7 +48,7 @@ I worked as a Data Scientist Intern at [Meta Platforms](https://about.facebook.c
 <br />
 January 2021 - December 2021
 <br />
-I worked as a Data Scientist Intern at [Roche pRED](https://www.roche.com/research_and_development/who_we_are_how_we_work/our_structure/pred.htm), performing statistical analysis and building Deep Learning models on genomic data.
+I worked as a Data Scientist Intern at [Roche pRED](https://www.roche.com/research_and_development/who_we_are_how_we_work/our_structure/pred.htm), performing statistical analysis and building deep learning models on genomic data.
 <br />
 <br />
 
@@ -48,7 +57,7 @@ I worked as a Data Scientist Intern at [Roche pRED](https://www.roche.com/resear
 <br />
 Summer 2021
 <br />
-I worked as a Quantitative Analytics Summer Associate at [JPMorgan Chase & Co.](https://www.jpmorganchase.com), conducting research in Deep Learning models using loan-level mortgage data.
+I worked as a Quantitative Analytics Summer Associate at [JPMorgan Chase & Co.](https://www.jpmorganchase.com), conducting research in deep learning models using loan-level mortgage data.
 <br />
 <br />
 
