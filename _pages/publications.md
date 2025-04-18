@@ -14,7 +14,7 @@ classes: wide
 
 * Zhu, C., Cheng, C., __Guo, J.__, Feng, X., & Sun, Q. (2025). [Retrospective analysis of estimated serial interval and reproductive number of SARS-CoV-2 Omicron variant in Korea](https://advancesincontinuousanddiscretemodels.springeropen.com/articles/10.1186/s13662-025-03906-y). _Advances in Continuous and Discrete Models, 2025_(1), 43.
 
-* Otsuka, I., Galfalvy, H., __Guo, J.__, Akiyama, M., Okazaki, S., Terao, C., Rujescu, D., Turecki, G., Hishimoto, A., & Mann, J. J. (2024). [Relationship of major depressive disorder and schizophrenia polygenic risk scores to suicide: a comparison between European and Asian ancestry populations](https://www.tandfonline.com/doi/full/10.1080/13811118.2024.2332258). _Archives of Suicide Research, 29_(1), 309-316.
+* Otsuka, I., Galfalvy, H., __Guo, J.__, Akiyama, M., Okazaki, S., Terao, C., Rujescu, D., Turecki, G., Hishimoto, A., & Mann, J. J. (2025). [Relationship of major depressive disorder and schizophrenia polygenic risk scores to suicide: a comparison between European and Asian ancestry populations](https://www.tandfonline.com/doi/full/10.1080/13811118.2024.2332258). _Archives of Suicide Research, 29_(1), 309-316.
 
 ### 2024
 
