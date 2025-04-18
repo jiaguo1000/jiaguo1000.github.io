@@ -10,7 +10,11 @@ classes: wide
 
 ### 2025
 
-* Zhu, C., Cheng, C., __Guo, J.__, Feng, X., & Sun, Q. (2025). [Retrospective analysis of estimated serial interval and reproductive number of SARS-CoV-2 Omicron variant in Korea](https://advancesincontinuousanddiscretemodels.springeropen.com/articles/10.1186/s13662-025-03906-y). _Advances in Continuous and Discrete Models, 2025_(1), 1-7.
+* Zheng, S., __Guo, J.__, Zheng, R., Ji, Y., Zhong, Q., & Yin, H. (2025). [A Naturalistic Prospective Study of the Prognostic Impact of EPHX2 in Major Depressive Disorder: Impulsivity may be an Important Factor](https://onlinelibrary.wiley.com/doi/full/10.1155/da/8124403). _Depression and Anxiety, 2025_(1), 8124403.
+
+* Zhu, C., Cheng, C., __Guo, J.__, Feng, X., & Sun, Q. (2025). [Retrospective analysis of estimated serial interval and reproductive number of SARS-CoV-2 Omicron variant in Korea](https://advancesincontinuousanddiscretemodels.springeropen.com/articles/10.1186/s13662-025-03906-y). _Advances in Continuous and Discrete Models, 2025_(1), 43.
+
+* Otsuka, I., Galfalvy, H., __Guo, J.__, Akiyama, M., Okazaki, S., Terao, C., Rujescu, D., Turecki, G., Hishimoto, A., & Mann, J. J. (2024). [Relationship of major depressive disorder and schizophrenia polygenic risk scores to suicide: a comparison between European and Asian ancestry populations](https://www.tandfonline.com/doi/full/10.1080/13811118.2024.2332258). _Archives of Suicide Research, 29_(1), 309-316.
 
 ### 2024
 
@@ -19,8 +23,6 @@ classes: wide
 * Lau, K., __Guo, J.__, Miao, Y., Ross, Z., Riley, K. W., Wang, S., Herbstman, J. B., & Perera, F. (2024). [Major air pollution and climate policies in NYC and trends in NYC air quality 1998–2021](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1474534/full). _Frontiers in Public Health, 12_, 1474534.
 
 * Riley, K. W., __Guo, J.__, Wang, S., Factor-Litvak, P., Miller, R., Andrews, H., Hoepner, L. A., Margolis, A. E., Rauh, V., Rundle, A., Perera, F., & Herbstman, J. B. (2024). [Cohort Profile: The Mothers and Newborns (MN) Cohort of the Columbia Center for Children's Environmental Health](https://academic.oup.com/ije/article-abstract/53/1/dyae011/7603276). _International Journal of Epidemiology, 53_(1), dyae011.
-
-* Otsuka, I., Galfalvy, H., __Guo, J.__, Akiyama, M., Okazaki, S., Terao, C., Rujescu, D., Turecki, G., Hishimoto, A., & Mann, J. J. (2024). [Relationship of major depressive disorder and schizophrenia polygenic risk scores to suicide: a comparison between European and Asian ancestry populations](https://www.tandfonline.com/doi/full/10.1080/13811118.2024.2332258). _Archives of Suicide Research_, 1-8.
 
 * Symeonides, C., Vacy, K., Thomson, S., Tanner, S., Chua, H. K., Dixit, S., Mansell, T., O'Hely, M., Novakovic, B., Herbstman, J. B., Wang, S., __Guo, J.__, Chia, J., ... & Boon, W. C. (2024). [Male autism spectrum disorder is linked to brain aromatase disruption by prenatal BPA in multimodal investigations and 10HDA ameliorates the related mouse phenotype](https://www.nature.com/articles/s41467-024-48897-8). _Nature Communications, 15_(1), 6367.
 
