@@ -16,6 +16,10 @@ classes: wide
 
 * Otsuka, I., Galfalvy, H., __Guo, J.__, Akiyama, M., Okazaki, S., Terao, C., Rujescu, D., Turecki, G., Hishimoto, A., & Mann, J. J. (2025). [Relationship of major depressive disorder and schizophrenia polygenic risk scores to suicide: a comparison between European and Asian ancestry populations](https://www.tandfonline.com/doi/full/10.1080/13811118.2024.2332258). _Archives of Suicide Research, 29_(1), 309-316.
 
+* Bloomquist, T. R., Gaylord, A., Cowell, W., Perera, F., __Guo, J.__, Wang, S., Factor-Litvak, P., Baccarelli, A. A., Herbstman, J. B., & Kupsco, A. (2025). [Gestational phthalate levels and biomarkers of aging in infants and children from New York City](https://www.sciencedirect.com/science/article/abs/pii/S0013935125018353). _Environmental Research_, 122583.
+
+* Kupsco, A., Heiss, J. A., Sanchez-Guerra, M., Estrada-Gutierrez, G., Lesseur, C., Hernandez, C., Bloomquist, T. R., Abigail, G., __Guo, J.__, Wang, S., Herbstman, J. B., Just, A. C., Tellez-Rojo, M. M., Wright, R. O., & Baccarelli, A. A. (2025). [Newborn mitochondrial DNA copy number is associated with changes to DNA methylation that persist into childhood and are associated with cognitive development](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-025-01896-y). _Clinical Epigenetics, 17_, 112.
+
 ### 2024
 
 * __Guo, J.__, Kiryluk, K., & Wang, S. (2024). [PheW<sup>2</sup>P2V: a phenome-wide prediction framework with weighted patient representations using electronic health records](https://academic.oup.com/jamiaopen/article/7/3/ooae084/7758163). _JAMIA Open, 7_(3), ooae084.
