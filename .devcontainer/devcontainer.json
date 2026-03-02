@@ -1,0 +1,8 @@
+{
+  "name": "jekyll-minimal-mistakes",
+  "image": "mcr.microsoft.com/devcontainers/ruby:3.3",
+  "forwardPorts": [4000],
+  "postCreateCommand": "bundle config set path 'vendor/bundle' && bundle install",
+  "postStartCommand": "bundle exec jekyll serve --host 0.0.0.0 --port 4000 --livereload --force_polling",
+  "remoteUser": "vscode"
+}
