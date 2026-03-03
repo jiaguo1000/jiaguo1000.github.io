@@ -75,7 +75,7 @@ I previously worked as a Machine Learning Engineer Intern at [MediaMath](https:/
 <br />
 2016 - 2018
 <br />
-I received a M.S. in Biostatistics with a concentration on Statitical Genetics at Columbia University.
+I received a M.S. in Biostatistics with a concentration on Statistical Genetics at Columbia University.
 <br />
 <br />
 
