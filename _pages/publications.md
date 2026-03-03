@@ -24,7 +24,7 @@ classes: wide
 
 * __Guo, J.__, Kiryluk, K., & Wang, S. (2024). [PheW<sup>2</sup>P2V: a phenome-wide prediction framework with weighted patient representations using electronic health records](https://academic.oup.com/jamiaopen/article/7/3/ooae084/7758163). _JAMIA Open, 7_(3), ooae084.
 
-* Lau, K., __Guo, J.__, Miao, Y., Ross, Z., Riley, K. W., Wang, S., Herbstman, J. B., & Perera, F. (2024). [Major air pollution and climate policies in NYC and trends in NYC air quality 1998–2021](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1474534/full). _Frontiers in Public Health, 12_, 1474534.
+* Lau, K., __Guo, J.__, Miao, Y., Ross, Z., Riley, K. W., Wang, S., Herbstman, J. B., & Perera, F. (2024). [Major air pollution and climate policies in NYC and trends in NYC air quality 1998-2021](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1474534/full). _Frontiers in Public Health, 12_, 1474534.
 
 * Riley, K. W., __Guo, J.__, Wang, S., Factor-Litvak, P., Miller, R., Andrews, H., Hoepner, L. A., Margolis, A. E., Rauh, V., Rundle, A., Perera, F., & Herbstman, J. B. (2024). [Cohort Profile: The Mothers and Newborns (MN) Cohort of the Columbia Center for Children's Environmental Health](https://academic.oup.com/ije/article-abstract/53/1/dyae011/7603276). _International Journal of Epidemiology, 53_(1), dyae011.
 
@@ -40,7 +40,7 @@ classes: wide
 
 ### 2022
 
-* __Guo, J.__, Riley, K. W., Durham, T., Margolis A. E., Wang, S., Perera, F., & Herbstman, J. B. (2022). [Association studies of environmental exposures, DNA methylation and children’s cognitive, behavioral, and mental health problems](https://www.frontiersin.org/articles/10.3389/fgene.2022.871820/full). _Frontiers in genetics, 13_, 871820.
+* __Guo, J.__, Riley, K. W., Durham, T., Margolis A. E., Wang, S., Perera, F., & Herbstman, J. B. (2022). [Association studies of environmental exposures, DNA methylation and children's cognitive, behavioral, and mental health problems](https://www.frontiersin.org/articles/10.3389/fgene.2022.871820/full). _Frontiers in genetics, 13_, 871820.
 
 * __Guo, J.__, Lin, W. H. W., Zucker, J. E., Nandakumar, R., Uhlemann, A. C., Wang, S., & Shivakoti, R. (2022). [Inflammation and mortality in COVID-19 hospitalized patients with and without type 2 diabetes](https://doi.org/10.1210/clinem/dgac003). _The Journal of Clinical Endocrinology & Metabolism, 107_(5), e1961-e1968.
 
@@ -58,11 +58,11 @@ classes: wide
 
 * Cowell, W., Tang, D., Yu, J., __Guo, J.__, Wang, S., Baccarelli, A. A., Perera, F., & Herbstman, J. B. (2021). [Telomere dynamics across the early life course: Findings from a longitudinal study in children](https://www.sciencedirect.com/science/article/pii/S030645302100144X). _Psychoneuroendocrinology, 129_, 105270.
 
-* Ge, J., Xu, T., __Guo, J.__, & Zhang, M. (2021). [Prediction of Parkinson’s Disease with a Regression-based Model Using Vertical Ground Reaction Force Data](https://communities.sas.com/t5/SAS-Global-Forum-Proceedings/Prediction-of-Parkinson-s-Disease-With-a-Regression-Model-Using/ta-p/735338). _SAS Global Forum Proceedings 2021_.
+* Ge, J., Xu, T., __Guo, J.__, & Zhang, M. (2021). [Prediction of Parkinson's Disease with a Regression-based Model Using Vertical Ground Reaction Force Data](https://communities.sas.com/t5/SAS-Global-Forum-Proceedings/Prediction-of-Parkinson-s-Disease-With-a-Regression-Model-Using/ta-p/735338). _SAS Global Forum Proceedings 2021_.
 
 ### 2020 and before
 
-* Schiff, C. S., Zur, K. B., Biggs, L. M., __Guo, J.__, & Pitman, M. J. (2019). [Pediatricians’ proficiency in the care of the dysphonic child](https://onlinelibrary.wiley.com/doi/full/10.1002/lary.27577). _The Laryngoscope, 129_(8), 1756-1762.
+* Schiff, C. S., Zur, K. B., Biggs, L. M., __Guo, J.__, & Pitman, M. J. (2019). [Pediatricians' proficiency in the care of the dysphonic child](https://onlinelibrary.wiley.com/doi/full/10.1002/lary.27577). _The Laryngoscope, 129_(8), 1756-1762.
 
 * Durham, T., Margolis, A., Pagliaccio, D., Garcia, W., Riley, K. W., __Guo, J.__, Wang, S., Peterson, B. S., Rauh, V., & Herbstman, J. B. (2019). [Self-perceived neighborhood quality and children's depression symptoms in a gentrifying Northern Manhattan](https://www.proquest.com/docview/2445581154). _International Journal of Child Health and Human Development, 12_(4), 413-424.
 

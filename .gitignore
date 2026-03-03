@@ -1,3 +1,5 @@
+tmp
+
 # Vim
 *~
 *.sw[p_]
@@ -10,11 +12,8 @@
 *.gem
 .bundle
 Gemfile.lock
-<<<<<<< HEAD
-/vendor/bundle
-=======
 **/vendor/bundle
->>>>>>> 2632ff650a6efb0d856a37d675be5f1b63692181
+.ruby-lsp
 
 # Node.js and NPM
 node_modules
