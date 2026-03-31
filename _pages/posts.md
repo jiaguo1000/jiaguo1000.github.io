@@ -1,8 +1,8 @@
 ---
 layout: posts
-permalink: /posts/
 title: "Posts"
 author_profile: true
+published: false
 ---
 
 ***
