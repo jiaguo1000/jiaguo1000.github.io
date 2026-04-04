@@ -4,12 +4,12 @@ Personal website built with Jekyll and the Minimal Mistakes theme.
 
 ## Local development
 
-This repository is intended to be used with the VS Code dev container.
+This repository is set up with a VS Code dev container. Open in VS Code and select **Reopen in Container** to start.
 
-Start the local site with:
+The dev container automatically runs:
 
 ```bash
-bundle exec jekyll serve
+bundle exec jekyll serve --host 0.0.0.0 --port 4000 --livereload --force_polling --watch --incremental
 ```
 
 Then open:
@@ -19,12 +19,6 @@ http://localhost:4000
 ```
 
 If you change `_config.yml`, restart the Jekyll server.
-
-To verify production-only features such as analytics locally, run:
-
-```bash
-JEKYLL_ENV=production bundle exec jekyll serve
-```
 
 ## Deployment
 
@@ -41,14 +35,14 @@ The deployment workflow is defined in:
 - Home page: `index.html`
 - About page: `_pages/about.md`
 - Publications page: `_pages/publications.md`
-- Posts index: `_pages/posts.md`
-- Blog posts: `_posts/`
+- Projects page: `_pages/projects.md`
 - Navigation: `_data/navigation.yml`
 
 ## Styling
 
 - Theme selection is controlled in `_config.yml` with `minimal_mistakes_skin`
-- Custom style overrides live in `assets/css/main.scss`
+- Custom styles: `assets/css/timeline.css` (About page timeline), inline `<style>` blocks in `_pages/projects.md`
+- Layout overrides: `_layouts/single.html` (removes self-referential title link)
 
 ## Notes
 
