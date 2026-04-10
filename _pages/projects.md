@@ -249,7 +249,7 @@ classes: wide
   <p class="project-tagline">A multiplayer web implementation of the Chinese card game Guan Dan.</p>
   <p class="project-desc">
     掼蛋 is a 4-player team card game where partners race to shed cards before the opposing team, with valid combinations ranging from singles to multi-card bombs.
-    Built with a shared TypeScript codebase across client and server for consistent game logic on both ends, with a responsive layout for desktop and mobile.
+    Empty seats are filled by an AI bot powered by ISMCTS, an algorithm designed for games with imperfect information.
   </p>
   <div class="combo-section">
     <p class="combo-section-label">Example Combinations</p>
@@ -324,9 +324,11 @@ classes: wide
     <span class="tag tag-green">Node.js</span>
     <span class="tag tag-green">Socket.io</span>
     <span class="tag tag-green">TypeScript</span>
+    <span class="tag tag-blue">ISMCTS</span>
     <span class="tag tag-blue">Real-Time Multiplayer</span>
   </div>
   <div class="card-links">
     <a href="https://eggbomb.duckdns.org" target="_blank" class="btn-link primary">Play Online ↗</a>
+    <a href="https://github.com/jiaguo1000/eggbomb" target="_blank" class="btn-link">GitHub ↗</a>
   </div>
 </div>
