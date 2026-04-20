@@ -223,23 +223,7 @@ classes: wide
 }
 </style>
 
-<p class="projects-subtitle">Side projects at the intersection of quantitative finance, machine learning, and software engineering.</p>
-
-<div class="tags">
-    <span class="tag tag-green">Next.js</span>
-    <span class="tag tag-green">FastAPI</span>
-    <span class="tag tag-green">Python</span>
-    <span class="tag tag-green">TypeScript</span>
-    <span class="tag tag-green">Supabase</span>
-    <span class="tag tag-blue">Alternative Data</span>
-    <span class="tag tag-blue">Signal Aggregation</span>
-    <span class="tag tag-orange">3,000+ Stocks</span>
-  </div>
-  <div class="card-links">
-  </div>
-</div>
-
-<div class="section-label">Side Projects</div>
+<p class="projects-subtitle">Side projects in software engineering and game AI.</p>
 
 <div class="project-card">
   <div class="project-card-header">
