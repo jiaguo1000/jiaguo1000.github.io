@@ -34,3 +34,4 @@ _site
 .claude
 
 # Local-only backup (not for GitHub)
+PROJECT_BACKUP.md
