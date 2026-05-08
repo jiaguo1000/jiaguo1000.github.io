@@ -8,11 +8,20 @@ classes: wide
 
 ***
 
+* <img src="/assets/images/Google.png" style="width:22%">
+<br />
+May 2026 - present
+<br />
+I work as a Research Data Scientist at [Google](https://about.google).
+<br />
+<br />
+
+
 * <img src="/assets/images/Nebula.png" style="width:43%">
 <br />
-February 2025 - present
+February 2025 - April 2026
 <br />
-I work as a Quantitative Researcher at [Nebula Research](https://www.nebularesearch.com).
+I worked as a Quantitative Researcher at [Nebula Research](https://www.nebularesearch.com), building end-to-end LLM/NLP pipelines on large-scale financial data to generate systematic trading signals.
 <br />
 <br />
 

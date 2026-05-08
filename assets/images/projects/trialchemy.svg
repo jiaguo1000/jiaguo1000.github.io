@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="512.000000pt" height="512.000000pt" viewBox="0 0 512.000000 512.000000"
+ preserveAspectRatio="xMidYMid meet">
+<!-- Trialchemy logo, mono-emerald (#059669, brand color, see lib/brand.ts).
+     Composition:
+       - Flask: solid silhouette with cap/neck/body cutouts (compound path).
+       - Star: hollow 4-point sparkle (long sharp tips, evenodd fill).
+       - Water: solid liquid blob, slightly trimmed in height so it doesn't
+         visually dominate (vertical scale ~0.9 anchored at path-y bottom).
+       - Top-right circle: hollow ring (compound path with inner cutout). -->
+
+<g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+fill="#059669" stroke="none">
+
+<!-- Flask outline + cap separator + neck + body cutouts. -->
+<path d="M2200 5104 c-130 -47 -220 -169 -220 -298 0 -23 13 -98 29 -168 l28
+-128 -29 0 c-36 0 -84 -24 -98 -49 -14 -26 -14 -536 0 -562 14 -25 62 -49 99
+-49 29 0 29 0 19 -37 -24 -88 -41 -107 -116 -131 -142 -46 -334 -149 -490
+-265 -587 -432 -873 -1190 -720 -1907 33 -157 84 -300 163 -457 80 -159 159
+-275 274 -406 403 -458 1013 -699 1611 -637 662 69 1230 467 1520 1065 452
+932 68 2056 -860 2520 -58 28 -139 64 -180 79 -102 37 -100 36 -120 86 -35 90
+-35 90 0 90 38 0 86 24 100 49 6 12 10 121 10 281 0 160 -4 269 -10 281 -14
+25 -62 49 -100 49 -16 0 -30 3 -30 8 0 4 12 54 26 112 34 135 36 227 5 295
+-29 65 -101 138 -165 167 -50 22 -61 23 -376 25 -276 2 -332 0 -370 -13z m678
+-204 c18 -11 40 -37 48 -56 14 -34 13 -44 -11 -148 -14 -61 -30 -128 -36 -148
+l-10 -38 -314 0 c-173 0 -315 3 -315 8 0 4 -14 65 -30 136 -35 151 -36 168
+-13 207 33 56 51 59 363 59 268 0 287 -1 318 -20z m142 -720 l0 -130 -460 0
+-460 0 0 130 0 130 460 0 460 0 0 -130z m-127 -396 c43 -173 100 -241 242
+-288 252 -85 518 -265 700 -473 522 -597 566 -1466 107 -2113 -86 -122 -271
+-306 -392 -392 -556 -393 -1287 -423 -1859 -74 -122 74 -196 132 -305 236
+-257 247 -419 539 -493 889 -24 112 -27 149 -27 326 0 170 3 217 22 315 123
+610 526 1080 1107 1290 56 20 103 44 123 64 42 39 87 131 108 219 l17 67 317
+0 317 0 16 -66z"/>
+
+<!-- 4-point soft star (original curved geometry; the same hollow shape
+     used since v1). A `matrix(1.10 0 0 1.10 -220 -290)` scales it
+     uniformly by 10% around its center (2200, 2900) so the points
+     reach a touch further out — visually "a little more pointy" than
+     the bare original, without changing the curve language of the
+     icon. Inner subpath provides the hollow center via the default
+     non-zero fill rule + reversed winding. -->
+<path transform="matrix(1.10 0 0 1.10 -220 -290)" d="M2123 3066 c-37 -17 -52 -40 -82 -122 -44 -120 -139 -211 -279 -264
+-77 -30 -107 -63 -107 -120 0 -59 30 -90 116 -123 136 -52 225 -140 275 -273
+31 -83 46 -101 95 -115 31 -10 43 -9 76 7 38 19 47 32 95 144 48 112 137 193
+263 239 73 27 92 43 106 92 10 31 9 43 -7 75 -11 21 -30 44 -44 51 -14 6 -60
+28 -103 47 -55 25 -94 51 -130 89 -47 48 -65 79 -120 209 -27 63 -94 90 -154
+64z m75 -351 c25 -36 99 -109 142 -138 l24 -17 -24 -17 c-32 -21 -131 -120
+-154 -153 -17 -24 -17 -25 -28 -5 -14 25 -124 136 -158 158 l-24 17 24 17 c42
+29 130 116 148 145 9 15 19 28 22 28 3 0 16 -16 28 -35z"/>
+
+<!-- Water: solid blob. Vertical scale 0.9 anchored at the path bottom
+     (translate(0 150) compensates so y=1500 maps to 1500), trimming the
+     water surface by ~10% without lifting the bottom off the flask base. -->
+<path transform="translate(0 150) scale(1 0.9)" d="M3127 2115 c-161 -31 -250 -71 -451 -207 -221 -150 -329 -183 -560
+-176 -207 7 -272 31 -501 187 -139 94 -266 155 -379 183 -88 22 -89 22 -125 2
+-54 -29 -64 -69 -58 -239 15 -392 156 -728 421 -1003 216 -225 491 -374 811
+-439 135 -27 433 -24 571 5 435 94 785 344 1009 723 138 234 237 621 177 696
+-9 12 -73 58 -141 102 -125 81 -227 128 -343 157 -91 22 -333 27 -431 9z"/>
+
+<!-- Top-right circle: hollow ring (outer + inner cutout subpath). -->
+<path d="M3623 4970 c-132 -27 -240 -139 -261 -273 -24 -150 51 -291 188 -356
+46 -22 69 -26 140 -26 73 0 93 4 141 28 66 32 132 99 162 165 17 37 22 66 22
+137 0 84 -2 94 -34 153 -51 93 -125 149 -229 171 -59 12 -69 12 -129 1z m98
+-200 c116 -32 133 -200 24 -246 -47 -19 -84 -18 -122 6 -43 26 -64 61 -65 107
+-1 76 41 124 122 142 3 0 21 -4 41 -9z"/>
+
+</g>
+</svg>

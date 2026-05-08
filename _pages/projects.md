@@ -40,10 +40,16 @@ classes: wide
 
 .project-card-header {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   gap: 12px;
   margin-bottom: 6px;
   flex-wrap: wrap;
+}
+.project-logo {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  flex-shrink: 0;
 }
 .project-title {
   font-size: 1.2em;
@@ -81,13 +87,18 @@ classes: wide
   margin-bottom: 1em;
 }
 
-.signals-grid {
+.signals-grid,
+.families-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 8px;
   margin-bottom: 1em;
 }
-.signal-item {
+.families-grid .family-item:last-child {
+  grid-column: span 3;
+}
+.signal-item,
+.family-item {
   padding: 8px 12px;
   background: rgba(255,255,255,0.04);
   border: 1px solid rgba(255,255,255,0.08);
@@ -97,22 +108,25 @@ classes: wide
   flex-direction: column;
   gap: 3px;
 }
-.signal-header {
+.signal-header,
+.family-header {
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: 9px;
 }
-.signal-header i {
-  font-size: 0.75em;
-  width: 12px;
+.signal-header > i,
+.family-header > i {
+  font-size: 14px;
   flex-shrink: 0;
 }
-.signal-name {
+.signal-name,
+.family-name {
   font-size: 0.78em;
   font-weight: 600;
   color: #ddd;
 }
-.signal-desc {
+.signal-desc,
+.family-desc {
   font-size: 0.72em;
   color: #888;
   line-height: 1.4;
@@ -223,10 +237,50 @@ classes: wide
 }
 </style>
 
-<p class="projects-subtitle">Side projects in software engineering and game AI.</p>
+<p class="projects-subtitle">Personal projects across statistics, machine learning, AI, and software engineering.</p>
+
+<div class="section-label">Featured</div>
 
 <div class="project-card">
   <div class="project-card-header">
+    <img src="/assets/images/projects/trialchemy.svg" alt="Trialchemy logo" class="project-logo">
+    <h2 class="project-title"><a href="https://www.trialchemy.app" target="_blank">Trialchemy ↗</a></h2>
+    <span class="live-badge">Live · Open Source</span>
+  </div>
+  <p class="project-tagline">The workbench for designing, simulating, and comparing clinical trials.</p>
+  <p class="project-desc">
+    Trialchemy brings 20 trial designs across 7 families into a single workbench, from Phase I dose finding to treatment selection. The cross-design view lets researchers compare methodologies under the same scientific objective, making it more than a calculator.
+  </p>
+  <div class="families-grid">
+    <div class="family-item" style="border-left-color:#8b5cf6"><div class="family-header"><i class="fas fa-vial" style="color:#8b5cf6"></i><span class="family-name">Phase I Dose Finding</span></div><span class="family-desc">3+3 · BOIN · mTPI-2 · CRM · TITE-CRM</span></div>
+    <div class="family-item" style="border-left-color:#f97316"><div class="family-header"><i class="fas fa-sliders-h" style="color:#f97316"></i><span class="family-name">Dose Optimization</span></div><span class="family-desc">BOIN-ET · Keyboard OBD · Project Optimus</span></div>
+    <div class="family-item" style="border-left-color:#f43f5e"><div class="family-header"><i class="fas fa-bullseye" style="color:#f43f5e"></i><span class="family-name">Phase II Single Arm</span></div><span class="family-desc">Simon's · A'Hern</span></div>
+    <div class="family-item" style="border-left-color:#06b6d4"><div class="family-header"><i class="fas fa-chart-line" style="color:#06b6d4"></i><span class="family-name">Phase II Dose Response</span></div><span class="family-desc">MCP-Mod · Emax</span></div>
+    <div class="family-item" style="border-left-color:#3b82f6"><div class="family-header"><i class="fas fa-chart-bar" style="color:#3b82f6"></i><span class="family-name">Phase III Two-Arm</span></div><span class="family-desc">Binary · Continuous · Survival</span></div>
+    <div class="family-item" style="border-left-color:#f59e0b"><div class="family-header"><i class="fas fa-balance-scale" style="color:#f59e0b"></i><span class="family-name">Non-Inferiority</span></div><span class="family-desc">Binary · Continuous · Survival</span></div>
+    <div class="family-item" style="border-left-color:#10b981"><div class="family-header"><i class="fas fa-trophy" style="color:#10b981"></i><span class="family-name">Treatment Selection</span></div><span class="family-desc">Sargent-Goldberg · Multi-arm GS · Adaptive</span></div>
+  </div>
+  <div class="tags">
+    <span class="tag tag-green">Next.js</span>
+    <span class="tag tag-green">TypeScript</span>
+    <span class="tag tag-green">FastAPI</span>
+    <span class="tag tag-green">R</span>
+    <span class="tag tag-green">Supabase</span>
+    <span class="tag tag-blue">Clinical Trial Design</span>
+    <span class="tag tag-blue">Trial Simulation</span>
+    <span class="tag tag-orange">20 Designs</span>
+  </div>
+  <div class="card-links">
+    <a href="https://www.trialchemy.app" target="_blank" class="btn-link primary">Visit Trialchemy ↗</a>
+    <a href="https://github.com/jiaguo1000/trialchemy" target="_blank" class="btn-link">GitHub ↗</a>
+  </div>
+</div>
+
+<div class="section-label">Side Projects</div>
+
+<div class="project-card">
+  <div class="project-card-header">
+    <img src="/assets/images/projects/eggbomb.png" alt="EggBomb logo" class="project-logo">
     <h2 class="project-title"><a href="https://eggbomb.duckdns.org" target="_blank">EggBomb (掼蛋) ↗</a></h2>
     <span class="live-badge">Live · Multiplayer</span>
   </div>
