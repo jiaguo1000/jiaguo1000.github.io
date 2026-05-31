@@ -237,9 +237,46 @@ classes: wide
 }
 </style>
 
-<p class="projects-subtitle">Personal projects across statistics, machine learning, AI, and software engineering.</p>
+<p class="projects-subtitle">Personal projects across statistics, systematic trading, machine learning, AI, and software engineering.</p>
 
 <div class="section-label">Featured</div>
+
+<div class="project-card">
+  <div class="project-card-header">
+    <img src="/assets/images/projects/distillfolio.svg" alt="Distillfolio logo" class="project-logo">
+    <h2 class="project-title"><a href="https://www.distillfolio.com" target="_blank">Distillfolio ↗</a></h2>
+    <span class="live-badge">Live · Updated Daily</span>
+  </div>
+  <p class="project-tagline">Nine signals. One score. A daily systematic long/short portfolio.</p>
+  <p class="project-desc">
+    A systematic portfolio construction tool that distills nine alternative data signals into a single composite score for 3,000+ US equities.
+    Built end-to-end: data ingestion pipelines, signal processing, composite scoring, and a web frontend with daily automated updates.
+  </p>
+  <div class="signals-grid">
+    <div class="signal-item" style="border-left-color:#00A1D5"><div class="signal-header"><i class="fas fa-building" style="color:#00A1D5"></i><span class="signal-name">13F Hedge Funds</span></div><span class="signal-desc">Conviction changes from hedge fund 13F filings</span></div>
+    <div class="signal-item" style="border-left-color:#374E55"><div class="signal-header"><i class="fas fa-briefcase" style="color:#374E55"></i><span class="signal-name">13F Asset Managers</span></div><span class="signal-desc">Conviction changes from asset manager 13F filings</span></div>
+    <div class="signal-item" style="border-left-color:#80796B"><div class="signal-header"><i class="fas fa-landmark" style="color:#80796B"></i><span class="signal-name">13F Other Institutions</span></div><span class="signal-desc">Banks, pensions, and insurance funds</span></div>
+    <div class="signal-item" style="border-left-color:#E8AFAF"><div class="signal-header"><i class="fas fa-star" style="color:#E8AFAF"></i><span class="signal-name">Analyst Ratings</span></div><span class="signal-desc">Upgrade and downgrade consensus across firms</span></div>
+    <div class="signal-item" style="border-left-color:#84CC16"><div class="signal-header"><i class="fas fa-chart-line" style="color:#84CC16"></i><span class="signal-name">Price Momentum</span></div><span class="signal-desc">Systematic price return signal</span></div>
+    <div class="signal-item" style="border-left-color:#B24745"><div class="signal-header"><i class="fas fa-arrow-down" style="color:#B24745"></i><span class="signal-name">Short Interest</span></div><span class="signal-desc">Days-to-cover trend across FINRA reporting periods</span></div>
+    <div class="signal-item" style="border-left-color:#79AF97"><div class="signal-header"><i class="fas fa-user" style="color:#79AF97"></i><span class="signal-name">Insider Trades</span></div><span class="signal-desc">Executive and director open-market transactions</span></div>
+    <div class="signal-item" style="border-left-color:#DF8F44"><div class="signal-header"><i class="fas fa-flag" style="color:#DF8F44"></i><span class="signal-name">Congressional Trades</span></div><span class="signal-desc">Senate member equity disclosures</span></div>
+    <div class="signal-item" style="border-left-color:#6A6599"><div class="signal-header"><i class="fas fa-bolt" style="color:#6A6599"></i><span class="signal-name">ARK Flows</span></div><span class="signal-desc">Position weight changes across ARK ETFs</span></div>
+  </div>
+  <div class="tags">
+    <span class="tag tag-green">Next.js</span>
+    <span class="tag tag-green">FastAPI</span>
+    <span class="tag tag-green">Python</span>
+    <span class="tag tag-green">Supabase</span>
+    <span class="tag tag-blue">Alternative Data</span>
+    <span class="tag tag-blue">Signal Aggregation</span>
+    <span class="tag tag-orange">3,000+ Stocks</span>
+  </div>
+  <div class="card-links">
+    <a href="https://www.distillfolio.com" target="_blank" class="btn-link primary">Visit Distillfolio ↗</a>
+    <a href="https://www.distillfolio.com/portfolio" target="_blank" class="btn-link">Today's Portfolio ↗</a>
+  </div>
+</div>
 
 <div class="project-card">
   <div class="project-card-header">
@@ -249,26 +286,25 @@ classes: wide
   </div>
   <p class="project-tagline">The workbench for designing, simulating, and comparing clinical trials.</p>
   <p class="project-desc">
-    Trialchemy brings 20 trial designs across 7 families into a single workbench, from Phase I dose finding to treatment selection. The cross-design view lets researchers compare methodologies under the same scientific objective, making it more than a calculator.
+    Trialchemy brings 21 trial designs across 7 families into a single workbench, from Phase I dose finding to treatment selection. The cross-design view lets researchers compare methodologies under the same scientific objective, making it more than a calculator.
   </p>
   <div class="families-grid">
-    <div class="family-item" style="border-left-color:#8b5cf6"><div class="family-header"><i class="fas fa-vial" style="color:#8b5cf6"></i><span class="family-name">Phase I Dose Finding</span></div><span class="family-desc">3+3 · BOIN · mTPI-2 · CRM · TITE-CRM</span></div>
-    <div class="family-item" style="border-left-color:#f97316"><div class="family-header"><i class="fas fa-sliders-h" style="color:#f97316"></i><span class="family-name">Dose Optimization</span></div><span class="family-desc">BOIN-ET · Keyboard OBD · Project Optimus</span></div>
-    <div class="family-item" style="border-left-color:#f43f5e"><div class="family-header"><i class="fas fa-bullseye" style="color:#f43f5e"></i><span class="family-name">Phase II Single Arm</span></div><span class="family-desc">Simon's · A'Hern</span></div>
+    <div class="family-item" style="border-left-color:#8b5cf6"><div class="family-header"><i class="fas fa-vial" style="color:#8b5cf6"></i><span class="family-name">Phase I Dose Finding</span></div><span class="family-desc">3+3 · BOIN · mTPI-2 · CRM · TITE-CRM · BLRM</span></div>
+    <div class="family-item" style="border-left-color:#f97316"><div class="family-header"><i class="fas fa-sliders-h" style="color:#f97316"></i><span class="family-name">Dose Optimization</span></div><span class="family-desc">BOIN-ET · Keyboard OBD</span></div>
+    <div class="family-item" style="border-left-color:#f43f5e"><div class="family-header"><i class="fas fa-bullseye" style="color:#f43f5e"></i><span class="family-name">Phase II Single Arm</span></div><span class="family-desc">Simon's two-stage · A'Hern single-stage</span></div>
     <div class="family-item" style="border-left-color:#06b6d4"><div class="family-header"><i class="fas fa-chart-line" style="color:#06b6d4"></i><span class="family-name">Phase II Dose Response</span></div><span class="family-desc">MCP-Mod · Emax</span></div>
     <div class="family-item" style="border-left-color:#3b82f6"><div class="family-header"><i class="fas fa-chart-bar" style="color:#3b82f6"></i><span class="family-name">Phase III Two-Arm</span></div><span class="family-desc">Binary · Continuous · Survival</span></div>
     <div class="family-item" style="border-left-color:#f59e0b"><div class="family-header"><i class="fas fa-balance-scale" style="color:#f59e0b"></i><span class="family-name">Non-Inferiority</span></div><span class="family-desc">Binary · Continuous · Survival</span></div>
-    <div class="family-item" style="border-left-color:#10b981"><div class="family-header"><i class="fas fa-trophy" style="color:#10b981"></i><span class="family-name">Treatment Selection</span></div><span class="family-desc">Sargent-Goldberg · Multi-arm GS · Adaptive</span></div>
+    <div class="family-item" style="border-left-color:#10b981"><div class="family-header"><i class="fas fa-trophy" style="color:#10b981"></i><span class="family-name">Treatment Selection</span></div><span class="family-desc">Sargent-Goldberg · Multi-arm GS · Adaptive Selection</span></div>
   </div>
   <div class="tags">
     <span class="tag tag-green">Next.js</span>
-    <span class="tag tag-green">TypeScript</span>
     <span class="tag tag-green">FastAPI</span>
     <span class="tag tag-green">R</span>
-    <span class="tag tag-green">Supabase</span>
+    <span class="tag tag-green">TypeScript</span>
     <span class="tag tag-blue">Clinical Trial Design</span>
     <span class="tag tag-blue">Trial Simulation</span>
-    <span class="tag tag-orange">20 Designs</span>
+    <span class="tag tag-orange">21 Designs</span>
   </div>
   <div class="card-links">
     <a href="https://www.trialchemy.app" target="_blank" class="btn-link primary">Visit Trialchemy ↗</a>

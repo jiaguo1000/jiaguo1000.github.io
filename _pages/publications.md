@@ -8,6 +8,10 @@ classes: wide
 
 ***
 
+### 2026
+
+* Chen, Y., Wang, Y., Yu, J., __Guo, J.__, & Hu, L. (2026). [Periodic solutions in a mosquito suppression model with Beverton-Holt survival probability](https://link.springer.com/article/10.1007/s00033-026-02802-z). _Zeitschrift für angewandte Mathematik und Physik, 77_(5), 151.
+
 ### 2025
 
 * Zheng, S., __Guo, J.__, Zheng, R., Ji, Y., Zhong, Q., & Yin, H. (2025). [A Naturalistic Prospective Study of the Prognostic Impact of EPHX2 in Major Depressive Disorder: Impulsivity may be an Important Factor](https://onlinelibrary.wiley.com/doi/full/10.1155/da/8124403). _Depression and Anxiety, 2025_(1), 8124403.
